@@ -1,9 +1,5 @@
 # SAN SAN GEAR local recreation
 
-설치: `npm ci`
-
-실행: `npm run dev` → http://localhost:3001
-
 산산기어 공개 사이트의 화면 구조와 공개 자산을 바탕으로 만든 Next.js 로컬 프런트엔드입니다. 공개 사이트의 기본 스타일, Adobe Fonts 키트, 영상·이미지를 사용합니다. 온라인 자산과 웹폰트는 인터넷 연결이 필요합니다.
 
 - 홈의 90개 콘텐츠 블록, 영상, 포인터·스크롤 반응선, 푸터
